@@ -2,12 +2,17 @@
 
 <div align="center">
   
+  <!-- REEMPLAZA ESTA URL CON LA DE TU FOTO -->
+  <img src="[https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/foto.jpg](https://www.facebook.com/photo/?fbid=1397920071653089&set=a.105437500901359)" alt="Tu Nombre" width="200" style="border-radius: 50%; border: 3px solid #00FF00; margin-bottom: 20px;">
+  
+  <h3>Tu Nombre Completo</h3>
+  
   ![Cyber Security Shield](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge&logo=security&logoColor=white)
   ![Pentesting](https://img.shields.io/badge/Pentesting-Professional-red?style=for-the-badge&logo=target&logoColor=white)
   ![DevSecOps](https://img.shields.io/badge/DevSecOps-Integrated-green?style=for-the-badge&logo=devops&logoColor=white)
   
   ### **"La seguridad no es un producto, sino un proceso" - Bruce Schneier**
-
+  
 </div>
 
 ## 🔒 Sobre mí
