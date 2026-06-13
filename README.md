@@ -1,4 +1,4 @@
-# 🛡️ Alejandro Mateo Ochoa | Ingeniero en Ciberseguridad Ofensiva
+# 🛡️ Alejandro Mateo Ochoa | Ingeniero en Ciberseguridad
 
 <div align="center">
   
