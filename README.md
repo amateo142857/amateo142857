@@ -1,101 +1,52 @@
-# 👨‍💻 Ingeniero en Ciberseguridad
+# 🛡️ Alejandro Mateo Ochoa | Ingeniero en Ciberseguridad Ofensiva
 
 <div align="center">
   
-  <h3>Alejandro Mateo Ochoa</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=+Pentester+%7C+DevSecOps+Wannabe;Cazador+de+vulnerabilidades;Autodidacta+y+persistente" alt="Typing SVG" />
   
-  ![Cyber Security Shield](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge&logo=security&logoColor=white)
-  ![Pentesting](https://img.shields.io/badge/Pentesting-Professional-red?style=for-the-badge&logo=target&logoColor=white)
-  ![DevSecOps](https://img.shields.io/badge/DevSecOps-Integrated-green?style=for-the-badge&logo=devops&logoColor=white)
-  
-  ### **"La seguridad no es un producto, sino un proceso" - Bruce Schneier**
+  [![GitHub followers](https://img.shields.io/github/followers/amateo142857?label=Follow&style=social)](https://github.com/amateo142857)
+  ![Profile Views](https://komarev.com/ghpvc/?username=amateo142857&color=green)
   
 </div>
 
-## 🔒 Sobre mí
+## 🔥 Sobre mí
 
-Soy un **Ingeniero en Ciberseguridad** apasionado por proteger sistemas, datos y redes contra amenazas digitales. Mi enfoque combina conocimientos técnicos profundos con metodologías de seguridad proactivas para construir entornos digitales resilientes.
+Ingeniero en Ciberseguridad graduado en la **Universidad de las Ciencias Informáticas (UCI), Cuba**.  
+Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** donde aplico diariamente pruebas de penetración y auditorías ofensivas.
 
-### 🛡️ Especialidades:
-- **Análisis de Vulnerabilidades** y pruebas de penetración
-- **Arquitectura de Seguridad** y diseño defensivo
-- **Respuesta a Incidentes** y análisis forense digital
-- **Concienciación en Seguridad** y formación técnica
+> *"No hay sistemas 100% seguros, solo sistemas que aún no han sido hackeados."*
 
-## 🛠️ Stack Tecnológico
+- 🎯 Especialista en **Seguridad Ofensiva (Red Team)**
+- 🐧 Usuario avanzado de **Linux** (Kali, Parrot, Ubuntu server)
+- 🔨 Construyo mis propias herramientas cuando las existentes no bastan
+- 🌐 Conocimientos de **Frontend** (HTML, JS, CSS) – útil para XSS, CSRF y phishing controlado
 
-### **Seguridad Ofensiva:**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6C37?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+## 🧠 Habilidades técnicas clave
 
-### **Seguridad Defensiva:**
-![SIEM](https://img.shields.io/badge/SIEM_Solutions-4A90E2?style=flat-square&logo=elastic&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-FF7139?style=flat-square&logo=pfSense&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS/IPS-00599C?style=flat-square&logo=snort&logoColor=white)
+### 🥷 Ofensiva (lo que más me apasiona)
+- **Auditoría WiFi:** `aircrack-ng` + herramienta propia desarrollada en Python/Bash
+- **Web:** Burp Suite, `wpscan`, SQLmap, XSS, CSRF, SSRF, IDOR
+- **Redes y escaneo:** Nmap, Masscan, Netcat, Wireshark (análisis de tráfico)
+- **Post-explotación y movimientos laterales:** Metasploit, reverse shells, tunelización (SSH, Chisel)
 
-### **Lenguajes y Herramientas:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🧰 Defensiva (para entender al defensor)
+- Monitoreo con Wazuh (SIEM open source)
+- Hardening de Linux (AppArmor, iptables, fail2ban)
+- Análisis de logs y correlación básica
 
-<!-- 
-## 📊 Estadísticas y Certificaciones
+### 💻 Programación y scripting
+| Lenguaje | Uso principal |
+|----------|----------------|
+| **Python** | Automatización de pentesting, generación de payloads, escáneres personalizados |
+| **Bash** | Scripts de enumeración, post-explotación, automatización de tareas en Kali |
+| **JavaScript/HTML/CSS** | Construcción de páginas de prueba, XSS, exfiltración básica |
 
-### **Certificaciones:**
-- **Offensive Security Certified Professional (OSCP)**
-- **Certified Ethical Hacker (CEH)**
-- **CompTIA Security+**
-- **GIAC Penetration Tester (GPEN)**
+## 🛠️ Mi stack real (no decoración)
 
-<div align="center">
-
-### ⚡ Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
-
-</div>
-
-## 📁 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[SIEM HomeLab](https://github.com/TU_USUARIO/siem-homelab)** | Implementación de un SIEM para monitorización de seguridad en entorno doméstico | ELK Stack, Suricata, Wazuh |
-| **[Vulnerability Scanner](https://github.com/TU_USUARIO/vuln-scanner)** | Escáner de vulnerabilidades automatizado para aplicaciones web | Python, Nmap, SQLi detection |
-| **[Cyber Range](https://github.com/TU_USUARIO/cyber-range)** | Entorno de laboratorio para prácticas de ciberseguridad | Docker, Vagrant, Metasploitable |
-| **[Security Scripts](https://github.com/TU_USUARIO/security-scripts)** | Colección de scripts útiles para tareas de seguridad | Bash, Python, PowerShell |
-
-## 📝 Publicaciones y Contribuciones
-
-- 🔐 **Blog personal:** [Enlace a tu blog/medium] - Artículos sobre ciberseguridad
-- 🎤 **Charlas técnicas:** Conferencias y meetups sobre seguridad ofensiva/defensiva
-- 🐛 **Responsible Disclosure:** Reporte de vulnerabilidades en programas de bug bounty
-
--->
-
-## 📫 Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@dominio.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TU_USUARIO)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/TU_ID)
-
-</div>
-
----
-
-<div align="center">
-  
-<!--  ⚠️ **Disclaimer:** Todas las herramientas y técnicas son utilizadas únicamente en entornos controlados y con autorización explícita. -->
-  
-  ![Visitas](https://komarev.com/ghpvc/?username=amateo142857&color=00FF00&style=flat-square)
-
-</div>
+```text
+🐧 OS     : Kali Linux, Parrot OS, Ubuntu
+🌐 Web    : Burp Suite Community/Pro, WPScan, ffuf, gobuster
+📡 Redes  : Nmap, Wireshark, tcpdump, Bettercap
+📡 WiFi   : aircrack-ng suite + herramienta propia
+🛡️ Defensa: Wazuh, Lynis, ClamAV, rkhunter
+☁️ Extra  : Docker (lab containers), Git, Metasploit, Searchsploit
