@@ -43,13 +43,14 @@ Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** 
 
 ## 🛠️ Mi stack real (no decoración)
 
+```text
 🐧 OS     : Kali Linux, Parrot OS, Ubuntu
 🌐 Web    : Burp Suite Community/Pro, WPScan, ffuf, gobuster
 📡 Redes  : Nmap, Wireshark, tcpdump, Bettercap
 📡 WiFi   : aircrack-ng suite + herramienta propia
 🛡️ Defensa: Wazuh, Lynis, ClamAV, rkhunter
 ☁️ Extra  : Docker (lab containers), Git, Metasploit, Searchsploit
-
+```
 ## 🤝 ¿Buscas un pentester para tu empresa?
 
 ✅ Pruebas de penetración externas/internas  
