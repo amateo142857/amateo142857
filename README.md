@@ -50,3 +50,12 @@ Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** 
 📡 WiFi   : aircrack-ng suite + herramienta propia
 🛡️ Defensa: Wazuh, Lynis, ClamAV, rkhunter
 ☁️ Extra  : Docker (lab containers), Git, Metasploit, Searchsploit
+
+## 🤝 ¿Buscas un pentester para tu empresa?
+
+✅ Pruebas de penetración externas/internas  
+✅ Auditoría WiFi  
+✅ Análisis de aplicaciones web  
+✅ Reportes ejecutivos y técnicos  
+
+📩 **Disponible para freelance o tiempo completo** – `alejandro.ochoa@tucorreo.com`
