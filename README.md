@@ -57,4 +57,4 @@ Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** 
 ✅ Análisis de aplicaciones web  
 ✅ Reportes ejecutivos y técnicos  
 
-📩 **Disponible para freelance o tiempo completo** – `alejandromateo55266748"gmail.com`
+📩 **Disponible para freelance o tiempo completo** – `alejandromateo55266748@gmail.com`
