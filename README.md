@@ -43,7 +43,6 @@ Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** 
 
 ## 🛠️ Mi stack real (no decoración)
 
-```text
 🐧 OS     : Kali Linux, Parrot OS, Ubuntu
 🌐 Web    : Burp Suite Community/Pro, WPScan, ffuf, gobuster
 📡 Redes  : Nmap, Wireshark, tcpdump, Bettercap
@@ -58,4 +57,4 @@ Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** 
 ✅ Análisis de aplicaciones web  
 ✅ Reportes ejecutivos y técnicos  
 
-📩 **Disponible para freelance o tiempo completo** – `alejandro.ochoa@tucorreo.com`
+📩 **Disponible para freelance o tiempo completo** – `alejandromateo55266748"gmail.com`
