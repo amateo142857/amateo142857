@@ -12,7 +12,7 @@
 ## 🔥 Sobre mí
 
 Ingeniero en Ciberseguridad graduado en la **Universidad de las Ciencias Informáticas (UCI), Cuba**.  
-Actualmente trabajo en una **Empresa de Tecnologías de la Información (ETI)** donde aplico diariamente pruebas de penetración y auditorías ofensivas.
+Actualmente trabajo en La **Empresa de Tecnologías de la Información (ETI)** donde aplico diariamente pruebas de penetración y auditorías ofensivas.
 
 > *"No hay sistemas 100% seguros, solo sistemas que aún no han sido hackeados."*
 
